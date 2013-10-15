@@ -1,0 +1,7 @@
+= gantt_menu_link
+
+I made this plugin because there was the need to create a simple link in the top menu to be able to show the Gantt for all the projects.
+
+I found that it was easy enought to make it, but there was no plugin to do it yet.
+
+Here's my little contribution to (redmine) community.
